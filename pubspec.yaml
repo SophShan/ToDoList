@@ -1,0 +1,35 @@
+name: to_do_list
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  flutter_svg: ^2.0.10+1
+
+  js: ^0.7.1
+
+  # database to save the tasks on phone when user exits app
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+
+  # allows icons and sliding feature used to delete a task
+  cupertino_icons: ^1.0.2
+  flutter_slidable: ^3.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+# more for database and to save tasks
+hive_generator: ^1.1.3
+build_runner: ^2.1.11
+
+flutter:
+  uses-material-design: true
