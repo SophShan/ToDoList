@@ -4,7 +4,7 @@ This is a flutter app develeloped and tested primarily for android. It allows th
 - Add new tasks to the list
 ![Adding A Task](https://github.com/SophShan/ToDoList/blob/main/Screenshots/AddingATask.png)
 - Check off completed tasks
-![Check off completed task](https://github.com/SophShan/ToDoList/blob/main/Screenshots/UsingApp.png)
+![Check off completed task](https://github.com/SophShan/ToDoList/blob/main/Screenshots/InitialState.png)
 - Delete tasks
 ![Deleting task](https://github.com/SophShan/ToDoList/blob/main/Screenshots/UsingApp.png)
 
