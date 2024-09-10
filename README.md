@@ -5,12 +5,13 @@ This is a flutter app develeloped and tested primarily for android. It allows th
 
 ![Adding A Task](https://github.com/SophShan/ToDoList/blob/main/Screenshots/CreatingTask.png)
 
+
 - Check off completed tasks
 
 ![Check off completed task](https://github.com/SophShan/ToDoList/blob/main/Screenshots/InitalState.png)
 
-- Delete tasks
 
+- Delete tasks
 
 ![Deleting task](https://github.com/SophShan/ToDoList/blob/main/Screenshots/UsingApp.png)
 
