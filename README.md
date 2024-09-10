@@ -7,7 +7,7 @@ This is a flutter app develeloped and tested primarily for android. It allows th
 
 - Check off completed tasks
 
-![Check off completed task](https://github.com/SophShan/ToDoList/blob/main/Screenshots/InitialState.png)
+![Check off completed task](https://github.com/SophShan/ToDoList/blob/main/Screenshots/InitalState.png)
 
 - Delete tasks
 
