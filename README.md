@@ -6,3 +6,4 @@ This is a flutter app develeloped and tested primarily for android. It allows th
 - Delete tasks
 
 
+![AddingATask](https://github.com/[SophShan]/[ToDoList]/blob/[main]/Screenshots/AddingATask.png?raw=true)
